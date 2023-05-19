@@ -1,0 +1,171 @@
+@media only screen and (min-width: 1025px){
+	/**** Banner style ****/
+	.main-banner h1{
+		padding: 30px 80px 30px 0px;
+	}
+
+	/**** Serviços style ****/
+	.home-serv{
+		margin:-50px 0px 0px 0px;
+	}
+}
+
+@media screen and (min-width: 770px) and (max-width: 1024px){
+	/**** menu nav ****/
+	.menu-container{
+		width:100% !important;
+		max-width:100% !important;
+	}
+}
+
+@media only screen and (max-width: 1024px){
+	/**** menu nav ****/
+	.main-navigation .menu ul li a{
+		padding:0px 10px;
+	}
+
+	/**** Banner Logo ****/
+	.main-navigation .navbar-brand img{
+		width:180px;
+	}
+
+	/**** Banner style ****/
+	.main-banner h1{
+		background-color:rgba(255, 255, 255, 0.8);
+		padding: 20px;
+		font-size: 1.8em;
+		color: #003854;
+		text-align: right;
+	}
+
+	.main-banner .bt-simulacao{
+		font-size:1.8em;
+		margin:0px;
+	}
+
+	.main-banner .bt2-simulacao{
+		font-size: 1em;
+	}
+
+
+}
+
+@media only screen and (min-width: 751px){
+
+	/**** Menu style ****/
+	.main-navigation .collapse{
+		display: block !important;
+		height: auto !important;
+		padding-bottom: 0;
+		overflow: visible !important;
+		float: right;
+	}
+
+	.main-navigation .navbar-toggle {
+		display: none;
+	}
+
+	.main-navigation .menu li:hover ul{
+		display:block;
+	}
+
+	.main-navigation .menu ul li{
+		float:left;
+	}
+}
+
+
+@media only screen and (max-width: 750px){
+
+	/**** Banner style ****/
+	.main-banner h1{
+		padding: 20px;
+	}
+
+	.main-banner .bt-simulacao,
+	.sobre .bt-simulacao{
+		font-size: 1.8em;
+		text-align:center
+	}
+
+	.main-banner .bt-simulacao i,
+	.sobre .bt-simulacao i{
+		font-size: 1em;
+		padding: 15px;
+		margin: 0px 15px;
+	}
+
+	/**** Menu style ****/
+	.main-navigation .menu ul{
+		background:#ffffff;
+	}
+
+	.main-navigation .navbar-toggle {
+		display: block;
+	}
+
+	.main-navigation .navbar-header {
+		height: 105px;
+	}
+
+	.main-navigation .dropdown-menu{
+		display:none;
+	}
+
+	.main-navigation .dropdown-toggle::after{
+		display:none;
+	}
+
+	.main-navigation .dropdown-toggle .caret::after{
+		content: "";
+		width: 40px;
+		text-align: center;
+		line-height: 50px;
+		border-top: .4em solid;
+		border-right: .3em solid transparent;
+		border-left: .3em solid transparent;
+	}
+
+	.main-navigation .open .dropdown-menu{
+		display:block;
+		position: relative;
+		float: none !important;
+		top: 0px;
+		left: 0px;
+		width: 100%;
+		height: auto;
+		box-shadow: none;
+	}
+
+	.main-navigation .dropdown-menu{
+		display:none;
+	}
+
+	.main-navigation .menu ul li a{
+		height:60px !important;
+		line-height:60px !important;
+	}
+
+	.main-navigation .menu li ul a:hover, .main-navigation .menu ul li a:hover{
+		background-color:#4c9ed9;
+		border:0px;
+		color:#ffffff;
+	}
+
+	.main-home h1{
+		font-size: 1.5em;
+	}
+	.operadoras{
+		display:flex;
+		justify-content: center;
+		align-items: center;
+	}
+}
+
+@media only screen and (max-width: 500px){
+
+	.main-home h1{
+		font-size: 2em;
+	}
+
+}
