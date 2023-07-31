@@ -1,1 +1,3 @@
 # astro-saude
+
+Protótipo inicial de um portal de planos de saúde....
