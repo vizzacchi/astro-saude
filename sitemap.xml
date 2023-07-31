@@ -9,282 +9,1902 @@
 
 <url>
   <loc>https://www.astrosaude.com.br/</loc>
-  <lastmod>2023-05-11T07:28:44+00:00</lastmod>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
-  <loc>https://www.astrosaude.com.br/pag/operadoras/ativia-saude/</loc>
-  <lastmod>2023-05-11T07:28:44+00:00</lastmod>
+  <loc>https://www.astrosaude.com.br/index.php</loc>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://www.astrosaude.com.br/pag/operadoras/hapvida/</loc>
-  <lastmod>2023-05-11T07:28:44+00:00</lastmod>
+  <loc>https://www.astrosaude.com.br/pag/cidade/</loc>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://www.astrosaude.com.br/pag/operadoras/plano-santa-casa-saude/</loc>
-  <lastmod>2023-05-11T07:28:44+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.astrosaude.com.br/pag/operadoras/porto-saude/</loc>
-  <lastmod>2023-05-11T07:28:44+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.astrosaude.com.br/pag/operadoras/sulamerica-saude/</loc>
-  <lastmod>2023-05-11T07:28:44+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.astrosaude.com.br/pag/operadoras/unimed-sao-jose-dos-campos/</loc>
-  <lastmod>2023-05-11T07:28:44+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.astrosaude.com.br/pag/perguntas-e-respostas/</loc>
-  <lastmod>2023-05-11T07:28:44+00:00</lastmod>
+  <loc>https://www.astrosaude.com.br/pag/perguntasERespostas/</loc>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://www.astrosaude.com.br/pag/simulacao/</loc>
-  <lastmod>2023-05-11T07:28:44+00:00</lastmod>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://www.astrosaude.com.br/pag/astro-saude/</loc>
-  <lastmod>2023-05-11T07:28:44+00:00</lastmod>
+  <loc>https://www.astrosaude.com.br/pag/sobre/</loc>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://www.astrosaude.com.br/pag/hospitais/?id=575&amp;hospital=HOSPITAL%20PRONTIL</loc>
-  <lastmod>2023-05-11T07:28:44+00:00</lastmod>
+  <loc>https://www.astrosaude.com.br/pag/operadoras/amil/</loc>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://www.astrosaude.com.br/pag/hospitais/?id=573&amp;hospital=ORTHOSERVICE</loc>
-  <lastmod>2023-05-11T07:28:44+00:00</lastmod>
+  <loc>https://www.astrosaude.com.br/pag/operadoras/ativia-saude/</loc>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://www.astrosaude.com.br/pag/hospitais/?id=569&amp;hospital=SANTA%20CASA%20DE%20MISERICORDIA%20DE%20SAO%20JOSE%20DOS%20CAMPOS</loc>
-  <lastmod>2023-05-11T07:28:44+00:00</lastmod>
+  <loc>https://www.astrosaude.com.br/pag/operadoras/bradesco-saude/</loc>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://www.astrosaude.com.br/pag/hospitais/?id=577&amp;hospital=HOSPITAL%20E%20MATERNIDADE%20POLICLIN</loc>
-  <lastmod>2023-05-11T07:28:44+00:00</lastmod>
+  <loc>https://www.astrosaude.com.br/pag/operadoras/hapvida/</loc>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://www.astrosaude.com.br/pag/hospitais/?id=564&amp;hospital=HOSPITAL%20MATERNO%20INFANTIL%20ANTONINHO%20DA%20ROCHA%20MARMO</loc>
-  <lastmod>2023-05-11T07:28:44+00:00</lastmod>
+  <loc>https://www.astrosaude.com.br/pag/operadoras/plano-santa-casa-saude/</loc>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://www.astrosaude.com.br/pag/hospitais/?id=572&amp;hospital=HOSPITAL%20ORTO</loc>
-  <lastmod>2023-05-11T07:28:44+00:00</lastmod>
+  <loc>https://www.astrosaude.com.br/pag/operadoras/porto-saude/</loc>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://www.astrosaude.com.br/pag/hospitais/?id=571&amp;hospital=HOSPITAL%20POLICLIN</loc>
-  <lastmod>2023-05-11T07:28:44+00:00</lastmod>
+  <loc>https://www.astrosaude.com.br/pag/operadoras/sulamerica-saude/</loc>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://www.astrosaude.com.br/pag/hospitais/?id=570&amp;hospital=HOSPITAL%20PRO%20INFANCIA</loc>
-  <lastmod>2023-05-11T07:28:44+00:00</lastmod>
+  <loc>https://www.astrosaude.com.br/pag/operadoras/unimed-sao-jose-dos-campos/</loc>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://www.astrosaude.com.br/pag/hospitais/?id=580&amp;hospital=HOSPITAL%20SANTOS%20DUMONT</loc>
-  <lastmod>2023-05-11T07:28:44+00:00</lastmod>
+  <loc>https://www.astrosaude.com.br/politica_privacidade.pdf</loc>
+  <lastmod>2023-06-19T14:33:10+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://www.astrosaude.com.br/pag/hospitais/?id=576&amp;hospital=HOSPITAL%20SAO%20JOSE</loc>
-  <lastmod>2023-05-11T07:28:44+00:00</lastmod>
+  <loc>https://www.astrosaude.com.br/remocao.php</loc>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://www.astrosaude.com.br/pag/hospitais/?id=574&amp;hospital=SANTOS%20DUMONT%20PRONTO%20ATENDIMENTO%20UNIDADE%20VILACA</loc>
-  <lastmod>2023-05-11T07:28:44+00:00</lastmod>
-  <priority>0.80</priority>
+  <loc>https://www.astrosaude.com.br/pag/cidades/?id=9094&amp;cidade=Diadema</loc>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.astrosaude.com.br/pag/cidades/?id=9355&amp;cidade=Mau%C3%A1</loc>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.astrosaude.com.br/pag/cidades/?id=9559&amp;cidade=Ribeir%C3%A3o%20Pires</loc>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.astrosaude.com.br/pag/cidades/?id=9625&amp;cidade=Santo%20Andr%C3%A9</loc>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.astrosaude.com.br/pag/cidades/?id=9640&amp;cidade=S%C3%A3o%20Bernardo%20do%20Campo</loc>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.astrosaude.com.br/pag/cidades/?id=9642&amp;cidade=S%C3%A3o%20Caetano%20do%20Sul</loc>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.astrosaude.com.br/pag/cidades/?id=8970&amp;cidade=Biritiba-Mirim</loc>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.astrosaude.com.br/pag/cidades/?id=9138&amp;cidade=Ferraz%20de%20Vasconcelos</loc>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.astrosaude.com.br/pag/cidades/?id=9176&amp;cidade=Guararema</loc>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.astrosaude.com.br/pag/cidades/?id=9250&amp;cidade=Itaquaquecetuba</loc>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.astrosaude.com.br/pag/cidades/?id=9369&amp;cidade=Mogi%20das%20Cruzes</loc>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.astrosaude.com.br/pag/cidades/?id=9508&amp;cidade=Po%C3%A1</loc>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.astrosaude.com.br/pag/cidades/?id=9584&amp;cidade=Sales%C3%B3polis</loc>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.astrosaude.com.br/pag/cidades/?id=9608&amp;cidade=Santa%20Isabel</loc>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.astrosaude.com.br/pag/cidades/?id=9703&amp;cidade=Suzano</loc>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.astrosaude.com.br/pag/cidades/?id=8926&amp;cidade=Assis</loc>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.astrosaude.com.br/pag/cidades/?id=9204&amp;cidade=Iep%C3%AA</loc>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.astrosaude.com.br/pag/cidades/?id=9393&amp;cidade=Nantes</loc>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.astrosaude.com.br/pag/cidades/?id=9447&amp;cidade=Paragua%C3%A7u%20Paulista</loc>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.astrosaude.com.br/pag/cidades/?id=9538&amp;cidade=Quat%C3%A1</loc>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.astrosaude.com.br/pag/cidades/?id=9283&amp;cidade=Jarinu</loc>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.astrosaude.com.br/pag/cidades/?id=9025&amp;cidade=Campinas</loc>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.astrosaude.com.br/pag/cidades/?id=9189&amp;cidade=Hortol%C3%A2ndia</loc>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.astrosaude.com.br/pag/cidades/?id=9216&amp;cidade=Indaiatuba</loc>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.astrosaude.com.br/pag/cidades/?id=9273&amp;cidade=Jaguari%C3%BAna</loc>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.astrosaude.com.br/pag/cidades/?id=9464&amp;cidade=Paul%C3%ADnia</loc>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.astrosaude.com.br/pag/cidades/?id=9700&amp;cidade=Sumar%C3%A9</loc>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.astrosaude.com.br/pag/cidades/?id=9768&amp;cidade=Valinhos</loc>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.astrosaude.com.br/pag/cidades/?id=9668&amp;cidade=S%C3%A3o%20Paulo</loc>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.astrosaude.com.br/pag/cidades/?id=8924&amp;cidade=Aruj%C3%A1</loc>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.astrosaude.com.br/pag/cidades/?id=8956&amp;cidade=Barueri</loc>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.astrosaude.com.br/pag/cidades/?id=9013&amp;cidade=Caieiras</loc>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.astrosaude.com.br/pag/cidades/?id=9015&amp;cidade=Cajamar</loc>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.astrosaude.com.br/pag/cidades/?id=9044&amp;cidade=Carapicu%C3%ADba</loc>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.astrosaude.com.br/pag/cidades/?id=9082&amp;cidade=Cotia</loc>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.astrosaude.com.br/pag/cidades/?id=9113&amp;cidade=Embu%20das%20Artes</loc>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.astrosaude.com.br/pag/cidades/?id=9114&amp;cidade=Embu-Gua%C3%A7u</loc>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.astrosaude.com.br/pag/cidades/?id=9146&amp;cidade=Franco%20da%20Rocha</loc>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.astrosaude.com.br/pag/cidades/?id=9183&amp;cidade=Guarulhos</loc>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.astrosaude.com.br/pag/cidades/?id=9239&amp;cidade=Itapecerica%20da%20Serra</loc>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.astrosaude.com.br/pag/cidades/?id=9243&amp;cidade=Itapevi</loc>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.astrosaude.com.br/pag/cidades/?id=9277&amp;cidade=Jandira</loc>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.astrosaude.com.br/pag/cidades/?id=9338&amp;cidade=Mairipor%C3%A3</loc>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.astrosaude.com.br/pag/cidades/?id=9432&amp;cidade=Osasco</loc>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.astrosaude.com.br/pag/cidades/?id=9499&amp;cidade=Pirapora%20do%20Bom%20Jesus</loc>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.astrosaude.com.br/pag/cidades/?id=9568&amp;cidade=Rio%20Grande%20da%20Serra</loc>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.astrosaude.com.br/pag/cidades/?id=9622&amp;cidade=Santana%20de%20Parna%C3%ADba</loc>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.astrosaude.com.br/pag/cidades/?id=9707&amp;cidade=Tabo%C3%A3o%20da%20Serra</loc>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.astrosaude.com.br/pag/cidades/?id=9004&amp;cidade=Cabre%C3%BAva</loc>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.astrosaude.com.br/pag/cidades/?id=9026&amp;cidade=Campo%20Limpo%20Paulista</loc>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.astrosaude.com.br/pag/cidades/?id=9261&amp;cidade=Itupeva</loc>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.astrosaude.com.br/pag/cidades/?id=9295&amp;cidade=Jundia%C3%AD</loc>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.astrosaude.com.br/pag/cidades/?id=9323&amp;cidade=Louveira</loc>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.astrosaude.com.br/pag/cidades/?id=9775&amp;cidade=V%C3%A1rzea%20Paulista</loc>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.astrosaude.com.br/pag/cidades/?id=8957&amp;cidade=Bastos</loc>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.astrosaude.com.br/pag/cidades/?id=9748&amp;cidade=Tup%C3%A3</loc>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.astrosaude.com.br/pag/cidades/?id=8853&amp;cidade=Adamantina</loc>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.astrosaude.com.br/pag/cidades/?id=8870&amp;cidade=Alfredo%20Marcondes</loc>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.astrosaude.com.br/pag/cidades/?id=8877&amp;cidade=%C3%81lvares%20Machado</loc>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.astrosaude.com.br/pag/cidades/?id=8894&amp;cidade=Anhumas</loc>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.astrosaude.com.br/pag/cidades/?id=9011&amp;cidade=Caiabu</loc>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.astrosaude.com.br/pag/cidades/?id=9014&amp;cidade=Caiu%C3%A1</loc>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.astrosaude.com.br/pag/cidades/?id=9103&amp;cidade=Dracena</loc>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.astrosaude.com.br/pag/cidades/?id=9115&amp;cidade=Emilian%C3%B3polis</loc>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.astrosaude.com.br/pag/cidades/?id=9128&amp;cidade=Estrela%20do%20Norte</loc>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.astrosaude.com.br/pag/cidades/?id=9129&amp;cidade=Euclides%20da%20Cunha%20Paulista</loc>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.astrosaude.com.br/pag/cidades/?id=9139&amp;cidade=Flora%20Rica</loc>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.astrosaude.com.br/pag/cidades/?id=9142&amp;cidade=Fl%C3%B3rida%20Paulista</loc>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.astrosaude.com.br/pag/cidades/?id=9217&amp;cidade=Indiana</loc>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.astrosaude.com.br/pag/cidades/?id=9220&amp;cidade=In%C3%BAbia%20Paulista</loc>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.astrosaude.com.br/pag/cidades/?id=9230&amp;cidade=Irapuru</loc>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.astrosaude.com.br/pag/cidades/?id=9288&amp;cidade=Jo%C3%A3o%20Ramalho</loc>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.astrosaude.com.br/pag/cidades/?id=9298&amp;cidade=Junqueir%C3%B3polis</loc>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.astrosaude.com.br/pag/cidades/?id=9324&amp;cidade=Luc%C3%A9lia</loc>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.astrosaude.com.br/pag/cidades/?id=9342&amp;cidade=Marab%C3%A1%20Paulista</loc>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.astrosaude.com.br/pag/cidades/?id=9347&amp;cidade=Mari%C3%A1polis</loc>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.astrosaude.com.br/pag/cidades/?id=9353&amp;cidade=Martin%C3%B3polis</loc>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.astrosaude.com.br/pag/cidades/?id=9365&amp;cidade=Mirante%20do%20Paranapanema</loc>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.astrosaude.com.br/pag/cidades/?id=9381&amp;cidade=Monte%20Castelo</loc>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.astrosaude.com.br/pag/cidades/?id=9394&amp;cidade=Narandiba</loc>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.astrosaude.com.br/pag/cidades/?id=9411&amp;cidade=Nova%20Guataporanga</loc>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.astrosaude.com.br/pag/cidades/?id=9434&amp;cidade=Osvaldo%20Cruz</loc>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.astrosaude.com.br/pag/cidades/?id=9437&amp;cidade=Ouro%20Verde</loc>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.astrosaude.com.br/pag/cidades/?id=9439&amp;cidade=Pacaembu</loc>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.astrosaude.com.br/pag/cidades/?id=9446&amp;cidade=Panorama</loc>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.astrosaude.com.br/pag/cidades/?id=9455&amp;cidade=Parapu%C3%A3</loc>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.astrosaude.com.br/pag/cidades/?id=9463&amp;cidade=Paulic%C3%A9ia</loc>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.astrosaude.com.br/pag/cidades/?id=9490&amp;cidade=Piquerobi</loc>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.astrosaude.com.br/pag/cidades/?id=9500&amp;cidade=Pirapozinho</loc>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.astrosaude.com.br/pag/cidades/?id=9524&amp;cidade=Pracinha</loc>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.astrosaude.com.br/pag/cidades/?id=9530&amp;cidade=Presidente%20Bernardes</loc>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.astrosaude.com.br/pag/cidades/?id=9531&amp;cidade=Presidente%20Epit%C3%A1cio</loc>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.astrosaude.com.br/pag/cidades/?id=9532&amp;cidade=Presidente%20Prudente</loc>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.astrosaude.com.br/pag/cidades/?id=9533&amp;cidade=Presidente%20Venceslau</loc>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.astrosaude.com.br/pag/cidades/?id=9544&amp;cidade=Rancharia</loc>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.astrosaude.com.br/pag/cidades/?id=9547&amp;cidade=Regente%20Feij%C3%B3</loc>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.astrosaude.com.br/pag/cidades/?id=9557&amp;cidade=Ribeir%C3%A3o%20dos%20%C3%8Dndios</loc>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.astrosaude.com.br/pag/cidades/?id=9565&amp;cidade=Rin%C3%B3polis</loc>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.astrosaude.com.br/pag/cidades/?id=9573&amp;cidade=Rosana</loc>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.astrosaude.com.br/pag/cidades/?id=9581&amp;cidade=Sagres</loc>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.astrosaude.com.br/pag/cidades/?id=9585&amp;cidade=Salmour%C3%A3o</loc>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.astrosaude.com.br/pag/cidades/?id=9591&amp;cidade=Sandovalina</loc>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.astrosaude.com.br/pag/cidades/?id=9614&amp;cidade=Santa%20Mercedes</loc>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.astrosaude.com.br/pag/cidades/?id=9624&amp;cidade=Santo%20Anast%C3%A1cio</loc>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.astrosaude.com.br/pag/cidades/?id=9634&amp;cidade=Santo%20Expedito</loc>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.astrosaude.com.br/pag/cidades/?id=9652&amp;cidade=S%C3%A3o%20Jo%C3%A3o%20do%20Pau%20d</loc>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.astrosaude.com.br/pag/cidades/?id=9708&amp;cidade=Taciba</loc>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.astrosaude.com.br/pag/cidades/?id=9723&amp;cidade=Tarabai</loc>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.astrosaude.com.br/pag/cidades/?id=9729&amp;cidade=Teodoro%20Sampaio</loc>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.astrosaude.com.br/pag/cidades/?id=9750&amp;cidade=Tupi%20Paulista</loc>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.astrosaude.com.br/pag/cidades/?id=8896&amp;cidade=Aparecida</loc>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.astrosaude.com.br/pag/cidades/?id=8911&amp;cidade=Arape%C3%AD</loc>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.astrosaude.com.br/pag/cidades/?id=8918&amp;cidade=Areias</loc>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.astrosaude.com.br/pag/cidades/?id=8942&amp;cidade=Bananal</loc>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.astrosaude.com.br/pag/cidades/?id=9005&amp;cidade=Ca%C3%A7apava</loc>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.astrosaude.com.br/pag/cidades/?id=9007&amp;cidade=Cachoeira%20Paulista</loc>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.astrosaude.com.br/pag/cidades/?id=9028&amp;cidade=Campos%20do%20Jord%C3%A3o</loc>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.astrosaude.com.br/pag/cidades/?id=9031&amp;cidade=Canas</loc>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.astrosaude.com.br/pag/cidades/?id=9043&amp;cidade=Caraguatatuba</loc>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.astrosaude.com.br/pag/cidades/?id=9087&amp;cidade=Cruzeiro</loc>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.astrosaude.com.br/pag/cidades/?id=9090&amp;cidade=Cunha</loc>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.astrosaude.com.br/pag/cidades/?id=9177&amp;cidade=Guaratinguet%C3%A1</loc>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.astrosaude.com.br/pag/cidades/?id=9209&amp;cidade=Igarat%C3%A1</loc>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.astrosaude.com.br/pag/cidades/?id=9214&amp;cidade=Ilhabela</loc>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.astrosaude.com.br/pag/cidades/?id=9267&amp;cidade=Jacare%C3%AD</loc>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.astrosaude.com.br/pag/cidades/?id=9276&amp;cidade=Jambeiro</loc>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.astrosaude.com.br/pag/cidades/?id=9309&amp;cidade=Lagoinha</loc>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.astrosaude.com.br/pag/cidades/?id=9314&amp;cidade=Lavrinhas</loc>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.astrosaude.com.br/pag/cidades/?id=9321&amp;cidade=Lorena</loc>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.astrosaude.com.br/pag/cidades/?id=9384&amp;cidade=Monteiro%20Lobato</loc>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.astrosaude.com.br/pag/cidades/?id=9395&amp;cidade=Natividade%20da%20Serra</loc>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.astrosaude.com.br/pag/cidades/?id=9448&amp;cidade=Paraibuna</loc>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.astrosaude.com.br/pag/cidades/?id=9485&amp;cidade=Pindamonhangaba</loc>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.astrosaude.com.br/pag/cidades/?id=9491&amp;cidade=Piquete</loc>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.astrosaude.com.br/pag/cidades/?id=9521&amp;cidade=Potim</loc>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.astrosaude.com.br/pag/cidades/?id=9540&amp;cidade=Queluz</loc>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.astrosaude.com.br/pag/cidades/?id=9546&amp;cidade=Reden%C3%A7%C3%A3o%20da%20Serra</loc>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.astrosaude.com.br/pag/cidades/?id=9574&amp;cidade=Roseira</loc>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.astrosaude.com.br/pag/cidades/?id=9596&amp;cidade=Santa%20Branca</loc>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.astrosaude.com.br/pag/cidades/?id=9632&amp;cidade=Santo%20Ant%C3%B4nio%20do%20Pinhal</loc>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.astrosaude.com.br/pag/cidades/?id=9639&amp;cidade=S%C3%A3o%20Bento%20do%20Sapuca%C3%AD</loc>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.astrosaude.com.br/pag/cidades/?id=9657&amp;cidade=S%C3%A3o%20Jos%C3%A9%20do%20Barreiro</loc>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.astrosaude.com.br/pag/cidades/?id=9660&amp;cidade=S%C3%A3o%20Jos%C3%A9%20dos%20Campos</loc>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.astrosaude.com.br/pag/cidades/?id=9663&amp;cidade=S%C3%A3o%20Luiz%20do%20Paraitinga</loc>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.astrosaude.com.br/pag/cidades/?id=9673&amp;cidade=S%C3%A3o%20Sebasti%C3%A3o</loc>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.astrosaude.com.br/pag/cidades/?id=9690&amp;cidade=Silveiras</loc>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.astrosaude.com.br/pag/cidades/?id=9726&amp;cidade=Taubat%C3%A9</loc>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.astrosaude.com.br/pag/cidades/?id=9741&amp;cidade=Trememb%C3%A9</loc>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.astrosaude.com.br/pag/cidades/?id=9756&amp;cidade=Ubatuba</loc>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.astrosaude.com.br/pag/cidades/?id=9301&amp;cidade=Juquitiba</loc>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.astrosaude.com.br/pag/cidades/?id=9661&amp;cidade=S%C3%A3o%20Louren%C3%A7o%20da%20Serra</loc>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.astrosaude.com.br/pag/hospitais/?id=566&amp;hospital=ASSOCIACAO%20INSTITUTO%20CHUI%20DE%20PSIQUIATRIA</loc>
-  <lastmod>2023-05-11T07:28:44+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.astrosaude.com.br/pag/hospitais/?id=568&amp;hospital=CVV%20FRANCISCA%20JULIA</loc>
-  <lastmod>2023-05-11T07:28:44+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.astrosaude.com.br/pag/hospitais/?id=565&amp;hospital=HOSPITAL%20PIO%20XII</loc>
-  <lastmod>2023-05-11T07:28:44+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.astrosaude.com.br/pag/hospitais/?id=581&amp;hospital=HOSPITAL%20VIVALLE</loc>
-  <lastmod>2023-05-11T07:28:44+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.astrosaude.com.br/pag/operadoras/</loc>
-  <lastmod>2023-05-11T07:28:44+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://www.astrosaude.com.br/pag/hospitais/?id=290&amp;hospital=HOSPITAL%20ALVORADA%20JACAREI</loc>
-  <lastmod>2023-05-11T07:28:44+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://www.astrosaude.com.br/pag/hospitais/?id=288&amp;hospital=HOSPITAL%20SAO%20FRANCISCO%20DE%20ASSIS</loc>
-  <lastmod>2023-05-11T07:28:44+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://www.astrosaude.com.br/pag/hospitais/?id=404&amp;hospital=SANTA%20CASA%20DE%20PINDAMONHANGABA</loc>
-  <lastmod>2023-05-11T07:28:44+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://www.astrosaude.com.br/pag/hospitais/?id=220&amp;hospital=HOSPITAL%20FREI%20GALVAO</loc>
-  <lastmod>2023-05-11T07:28:44+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://www.astrosaude.com.br/pag/hospitais/?id=176&amp;hospital=SANTA%20CASA%20DE%20CRUZEIRO</loc>
-  <lastmod>2023-05-11T07:28:44+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://www.astrosaude.com.br/pag/hospitais/?id=100&amp;hospital=HOSPITAL%20E%20MATERNIDADE%20NOSSA%20SENHORA%20DA%20AJUDA</loc>
-  <lastmod>2023-05-11T07:28:44+00:00</lastmod>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.astrosaude.com.br/pag/hospitais/?id=145&amp;hospital=CASA%20DE%20SAUDE%20STELLA%20MARIS</loc>
-  <lastmod>2023-05-11T07:28:44+00:00</lastmod>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.astrosaude.com.br/pag/hospitais/?id=568&amp;hospital=CVV%20FRANCISCA%20JULIA</loc>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.astrosaude.com.br/pag/hospitais/?id=290&amp;hospital=HOSPITAL%20ALVORADA%20JACAREI</loc>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.astrosaude.com.br/pag/hospitais/?id=793&amp;hospital=HOSPITAL%20DE%20CLINICAS%20DE%20SAO%20SEBASTIAO</loc>
-  <lastmod>2023-05-11T07:28:44+00:00</lastmod>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://www.astrosaude.com.br/pag/hospitais/?id=860&amp;hospital=ATTENTIS%20JACARE%C3%8D</loc>
-  <lastmod>2023-05-11T07:28:44+00:00</lastmod>
+  <loc>https://www.astrosaude.com.br/pag/hospitais/?id=100&amp;hospital=HOSPITAL%20E%20MATERNIDADE%20NOSSA%20SENHORA%20DA%20AJUDA</loc>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://www.astrosaude.com.br/pag/hospitais/?id=834&amp;hospital=HOSPITAL%20REGIONAL%20DO%20VALE%20DO%20PARAIBA</loc>
-  <lastmod>2023-05-11T07:28:44+00:00</lastmod>
+  <loc>https://www.astrosaude.com.br/pag/hospitais/?id=220&amp;hospital=HOSPITAL%20FREI%20GALVAO</loc>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://www.astrosaude.com.br/pag/hospitais/?id=219&amp;hospital=SANTA%20CASA%20DE%20MISERICORDIA%20DE%20GUARATINGUETA</loc>
-  <lastmod>2023-05-11T07:28:44+00:00</lastmod>
+  <loc>https://www.astrosaude.com.br/pag/hospitais/?id=564&amp;hospital=HOSPITAL%20MATERNO%20INFANTIL%20ANTONINHO%20DA%20ROCHA%20MARMO</loc>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://www.astrosaude.com.br/pag/hospitais/?id=323&amp;hospital=IRMANDADE%20DA%20SANTA%20CASA%20DE%20MISERICORDIA%20LORENA</loc>
-  <lastmod>2023-05-11T07:28:44+00:00</lastmod>
+  <loc>https://www.astrosaude.com.br/pag/hospitais/?id=565&amp;hospital=HOSPITAL%20PIO%20XII</loc>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://www.astrosaude.com.br/pag/hospitais/?id=578&amp;hospital=CENTRO%20DE%20TRATAMENTO%20FABIANA%20MACEDO%20DE%20MORAIS</loc>
-  <lastmod>2023-05-11T07:28:44+00:00</lastmod>
+  <loc>https://www.astrosaude.com.br/pag/hospitais/?id=575&amp;hospital=HOSPITAL%20PRONTIL</loc>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://www.astrosaude.com.br/pag/hospitais/?id=355&amp;hospital=HOSPITAL%20E%20MATERNIDADE%20IPIRANGA</loc>
-  <lastmod>2023-05-11T07:28:44+00:00</lastmod>
+  <loc>https://www.astrosaude.com.br/pag/hospitais/?id=288&amp;hospital=HOSPITAL%20SAO%20FRANCISCO%20DE%20ASSIS</loc>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://www.astrosaude.com.br/pag/hospitais/?id=228&amp;hospital=HOSPITAL%20STELLA%20MARIS</loc>
-  <lastmod>2023-05-11T07:28:44+00:00</lastmod>
+  <loc>https://www.astrosaude.com.br/pag/hospitais/?id=176&amp;hospital=SANTA%20CASA%20DE%20CRUZEIRO</loc>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.astrosaude.com.br/pag/hospitais/?id=289&amp;hospital=SANTA%20CASA%20DE%20MISERICORDIA%20DE%20JACAREI</loc>
-  <lastmod>2023-05-11T07:28:44+00:00</lastmod>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://www.astrosaude.com.br/pag/hospitais/?id=287&amp;hospital=HOSPITAL%20DE%20CLINICAS%20ANTONIO%20AFONSO</loc>
-  <lastmod>2023-05-11T07:28:44+00:00</lastmod>
+  <loc>https://www.astrosaude.com.br/pag/hospitais/?id=569&amp;hospital=SANTA%20CASA%20DE%20MISERICORDIA%20DE%20SAO%20JOSE%20DOS%20CAMPOS</loc>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://www.astrosaude.com.br/pag/hospitais/?id=286&amp;hospital=HOSPITAL%20POLICLIN%20DE%20JACAREI</loc>
-  <lastmod>2023-05-11T07:28:44+00:00</lastmod>
+  <loc>https://www.astrosaude.com.br/pag/hospitais/?id=404&amp;hospital=SANTA%20CASA%20DE%20PINDAMONHANGABA</loc>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://www.astrosaude.com.br/pag/hospitais/?id=835&amp;hospital=HOSPITAL%20UBARANA</loc>
-  <lastmod>2023-05-11T07:28:44+00:00</lastmod>
+  <loc>https://www.astrosaude.com.br/pag/hospitais/?id=860&amp;hospital=ATTENTIS%20JACARE%C3%8D</loc>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.astrosaude.com.br/pag/hospitais/?id=570&amp;hospital=HOSPITAL%20PRO%20INFANCIA</loc>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.astrosaude.com.br/pag/hospitais/?id=576&amp;hospital=HOSPITAL%20SAO%20JOSE</loc>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.astrosaude.com.br/pag/hospitais/?id=578&amp;hospital=CENTRO%20DE%20TRATAMENTO%20FABIANA%20MACEDO%20DE%20MORAIS</loc>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.astrosaude.com.br/pag/hospitais/?id=355&amp;hospital=HOSPITAL%20E%20MATERNIDADE%20IPIRANGA</loc>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.astrosaude.com.br/pag/hospitais/?id=834&amp;hospital=HOSPITAL%20REGIONAL%20DO%20VALE%20DO%20PARAIBA</loc>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.astrosaude.com.br/pag/hospitais/?id=228&amp;hospital=HOSPITAL%20STELLA%20MARIS</loc>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.astrosaude.com.br/pag/hospitais/?id=323&amp;hospital=IRMANDADE%20DA%20SANTA%20CASA%20DE%20MISERICORDIA%20LORENA</loc>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.astrosaude.com.br/pag/hospitais/?id=219&amp;hospital=SANTA%20CASA%20DE%20MISERICORDIA%20DE%20GUARATINGUETA</loc>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.astrosaude.com.br/pag/hospitais/?id=620&amp;hospital=A%20C%20CAMARGO%20CANCER%20CENTER</loc>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.astrosaude.com.br/pag/hospitais/?id=516&amp;hospital=ANGIOCORPORE</loc>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.astrosaude.com.br/pag/hospitais/?id=709&amp;hospital=API%20ASSISTENCIA%20PSIQUIATRICA%20INTEGRADA</loc>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.astrosaude.com.br/pag/hospitais/?id=627&amp;hospital=ASSOC%20AACD%20V%20CLEMENTINO</loc>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.astrosaude.com.br/pag/hospitais/?id=366&amp;hospital=ASSOCIACAO%20HOSPITAL%20BENEFICENTE%20SAGRADO%20CORACAO%20DE%20JESUS</loc>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.astrosaude.com.br/pag/hospitais/?id=427&amp;hospital=ASSOCIACAO%20HOSPITALAR%20CASA%20DE%20SAUDE%20DE%20SANTOS%20UNID%20II</loc>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.astrosaude.com.br/pag/hospitais/?id=14&amp;hospital=BENEFICENCIA%20PORTUGUESA%20DE%20AMPARO</loc>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.astrosaude.com.br/pag/hospitais/?id=122&amp;hospital=BOLDRINI%20CAMPINAS</loc>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.astrosaude.com.br/pag/hospitais/?id=757&amp;hospital=BP%20MIRANTE</loc>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.astrosaude.com.br/pag/hospitais/?id=124&amp;hospital=CASA%20DE%20SAUDE</loc>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.astrosaude.com.br/pag/hospitais/?id=511&amp;hospital=CASA%20DE%20SAUDE%20SANTOS</loc>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.astrosaude.com.br/pag/hospitais/?id=722&amp;hospital=CEMA%20HOSP%20ESPEC</loc>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.astrosaude.com.br/pag/hospitais/?id=518&amp;hospital=CENTRO%20DE%20TRATAMENTO%20BEZERRA%20DE%20MENEZES%20SB%20DO%20CAMPO</loc>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.astrosaude.com.br/pag/hospitais/?id=624&amp;hospital=CENTRO%20INTEGR%20DE%20ASS%20E%20SAUDE%20NOSSA%20SENHORA%20DE%20FATIMA</loc>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.astrosaude.com.br/pag/hospitais/?id=121&amp;hospital=CENTRO%20MEDICO%20DE%20CAMPINAS</loc>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.astrosaude.com.br/pag/hospitais/?id=836&amp;hospital=CLINICA%20SAINT%20GERMAIN</loc>
-  <lastmod>2023-05-11T07:28:44+00:00</lastmod>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://www.astrosaude.com.br/pag/hospitais/?id=837&amp;hospital=HOSPITAL%20E%20MATERNIDADE%20POLICLIN%20TAUBATE</loc>
-  <lastmod>2023-05-11T07:28:44+00:00</lastmod>
+  <loc>https://www.astrosaude.com.br/pag/hospitais/?id=644&amp;hospital=DAY%20HOSPITAL%20DE%20ERMELINO%20MATARAZZO</loc>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://www.astrosaude.com.br/pag/hospitais/?id=405&amp;hospital=HOSPITAL%2010%20DE%20JULHO</loc>
-  <lastmod>2023-05-11T07:28:44+00:00</lastmod>
+  <loc>https://www.astrosaude.com.br/pag/hospitais/?id=581&amp;hospital=H.VIVALE</loc>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://www.astrosaude.com.br/pag/hospitais/?id=324&amp;hospital=HOSPITAL%20UNIMED%20DE%20LORENA</loc>
-  <lastmod>2023-05-11T07:28:44+00:00</lastmod>
+  <loc>https://www.astrosaude.com.br/pag/hospitais/?id=603&amp;hospital=HC%20DA%20FMUSP%20INSTITUTO%20DO%20CORACAO%20INCOR%20SAO%20PAULO</loc>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://www.astrosaude.com.br/pag/hospitais/?id=101&amp;hospital=HOSPITAL%20POLICLIN%20CACAPAVA</loc>
-  <lastmod>2023-05-11T07:28:44+00:00</lastmod>
+  <loc>https://www.astrosaude.com.br/pag/hospitais/?id=463&amp;hospital=HERP</loc>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://www.astrosaude.com.br/pag/hospitais/?id=93&amp;hospital=COMPLEXO%20HOSPITALAR%20SANTA%20CASA%20BRAGANCA%20PAULISTA</loc>
-  <lastmod>2023-05-11T07:28:44+00:00</lastmod>
+  <loc>https://www.astrosaude.com.br/pag/hospitais/?id=646&amp;hospital=HOSP%209%20DE%20JULHO</loc>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.astrosaude.com.br/pag/hospitais/?id=666&amp;hospital=HOSP%20ALBERT%20SABIN</loc>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.astrosaude.com.br/pag/hospitais/?id=714&amp;hospital=HOSP%20DE%20CLINICAS%20J%20HELENA</loc>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.astrosaude.com.br/pag/hospitais/?id=614&amp;hospital=HOSP%20DOM%20ALVARENGA</loc>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.astrosaude.com.br/pag/hospitais/?id=684&amp;hospital=HOSP%20EDMUNDO%20VASCONCELOS</loc>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.astrosaude.com.br/pag/hospitais/?id=668&amp;hospital=HOSP%20IGESP</loc>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.astrosaude.com.br/pag/hospitais/?id=675&amp;hospital=HOSP%20RUBEM%20BERTA</loc>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.astrosaude.com.br/pag/hospitais/?id=753&amp;hospital=HOSP%20SAO%20LUIZ%20ANALIA%20FRANCO</loc>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.astrosaude.com.br/pag/hospitais/?id=694&amp;hospital=HOSP%20VERA%20CRUZ</loc>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.astrosaude.com.br/pag/hospitais/?id=49&amp;hospital=HOSPITAL%20ALBERT%20SABIN%20ATIBAIA</loc>
-  <lastmod>2023-05-11T07:28:44+00:00</lastmod>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://www.astrosaude.com.br/pag/hospitais/?id=48&amp;hospital=HOSPITAL%20NOVO%20ATIBAIA</loc>
-  <lastmod>2023-05-11T07:28:44+00:00</lastmod>
+  <loc>https://www.astrosaude.com.br/pag/hospitais/?id=147&amp;hospital=HOSPITAL%20ALPHA%20MED%20CARAPICUIBA</loc>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.astrosaude.com.br/pag/hospitais/?id=677&amp;hospital=HOSPITAL%20ALVORADA%20MOEMA</loc>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.astrosaude.com.br/pag/hospitais/?id=522&amp;hospital=HOSPITAL%20ASSUNCAO</loc>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.astrosaude.com.br/pag/hospitais/?id=638&amp;hospital=HOSPITAL%20AVICCENA</loc>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.astrosaude.com.br/pag/hospitais/?id=499&amp;hospital=HOSPITAL%20BARTIRA</loc>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.astrosaude.com.br/pag/hospitais/?id=78&amp;hospital=HOSPITAL%20BAURU</loc>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.astrosaude.com.br/pag/hospitais/?id=711&amp;hospital=HOSPITAL%20BDW%20SP</loc>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.astrosaude.com.br/pag/hospitais/?id=234&amp;hospital=HOSPITAL%20BOM%20CLIMA</loc>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.astrosaude.com.br/pag/hospitais/?id=728&amp;hospital=HOSPITAL%20BOSQUE%20DA%20SAUDE</loc>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.astrosaude.com.br/pag/hospitais/?id=656&amp;hospital=HOSPITAL%20BP</loc>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.astrosaude.com.br/pag/hospitais/?id=232&amp;hospital=HOSPITAL%20CARLOS%20CHAGAS</loc>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.astrosaude.com.br/pag/hospitais/?id=226&amp;hospital=HOSPITAL%20CASA%20DE%20SAUDE%20DO%20GUARUJA</loc>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.astrosaude.com.br/pag/hospitais/?id=695&amp;hospital=HOSPITAL%20CENTRAL%20DE%20GUAIANASES</loc>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.astrosaude.com.br/pag/hospitais/?id=218&amp;hospital=HOSPITAL%20CEPOG</loc>
-  <lastmod>2023-05-11T07:28:44+00:00</lastmod>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://www.astrosaude.com.br/pag/hospitais/?id=102&amp;hospital=HOSPITAL%20UNIMED%20DE%20CACAPAVA</loc>
-  <lastmod>2023-05-11T07:28:44+00:00</lastmod>
+  <loc>https://www.astrosaude.com.br/pag/hospitais/?id=381&amp;hospital=HOSPITAL%20CRUZEIRO%20DO%20SUL</loc>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://www.astrosaude.com.br/pag/hospitais/?id=146&amp;hospital=SANTOS%20DUMONT%20HOSPITAL%20UNIDADE%20CARAGUATATUBA</loc>
-  <lastmod>2023-05-11T07:28:44+00:00</lastmod>
+  <loc>https://www.astrosaude.com.br/pag/hospitais/?id=653&amp;hospital=HOSPITAL%20DA%20CRIANCA</loc>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.astrosaude.com.br/pag/hospitais/?id=730&amp;hospital=HOSPITAL%20DA%20LUZ%20113</loc>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.astrosaude.com.br/pag/hospitais/?id=596&amp;hospital=HOSPITAL%20DA%20LUZ%2092</loc>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.astrosaude.com.br/pag/hospitais/?id=91&amp;hospital=HOSPITAL%20DAS%20CLINICAS%20DA%20FACULDADE%20DE%20MEDICINA%20DE%20BOTUCATU</loc>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.astrosaude.com.br/pag/hospitais/?id=287&amp;hospital=HOSPITAL%20DE%20CLINICAS%20ANTONIO%20AFONSO</loc>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.astrosaude.com.br/pag/hospitais/?id=106&amp;hospital=HOSPITAL%20DE%20CLINICAS%20CAIEIRAS</loc>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.astrosaude.com.br/pag/hospitais/?id=662&amp;hospital=HOSPITAL%20DO%20CORACAO</loc>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.astrosaude.com.br/pag/hospitais/?id=552&amp;hospital=HOSPITAL%20DO%20CORACAO%20DO%20IMC</loc>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.astrosaude.com.br/pag/hospitais/?id=688&amp;hospital=HOSPITAL%20DO%20RIM%20E%20HIPERTENSAO</loc>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.astrosaude.com.br/pag/hospitais/?id=409&amp;hospital=HOSPITAL%20DOS%20FORNECEDORES%20DE%20CANA%20DE%20PIRACICABA</loc>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.astrosaude.com.br/pag/hospitais/?id=500&amp;hospital=HOSPITAL%20E%20MATERNIDADE%20BRASIL</loc>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.astrosaude.com.br/pag/hospitais/?id=341&amp;hospital=HOSPITAL%20E%20MATERNIDADE%20BRASIL%20UNIDADE%20MAUA</loc>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.astrosaude.com.br/pag/hospitais/?id=495&amp;hospital=HOSPITAL%20E%20MATERNIDADE%20DR%20CHRISTOVAO%20DA%20GAMA</loc>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.astrosaude.com.br/pag/hospitais/?id=851&amp;hospital=HOSPITAL%20E%20MATERNIDADE%20GALILEO</loc>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.astrosaude.com.br/pag/hospitais/?id=238&amp;hospital=HOSPITAL%20E%20MATERNIDADE%20GUARULHOS</loc>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.astrosaude.com.br/pag/hospitais/?id=120&amp;hospital=HOSPITAL%20E%20MATERNIDADE%20MADRE%20THEODORA</loc>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.astrosaude.com.br/pag/hospitais/?id=633&amp;hospital=HOSPITAL%20E%20MATERNIDADE%20METROPOLITANO</loc>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.astrosaude.com.br/pag/hospitais/?id=669&amp;hospital=HOSPITAL%20E%20MATERNIDADE%20NOSSA%20SENHORA%20DO%20ROSARIO</loc>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.astrosaude.com.br/pag/hospitais/?id=530&amp;hospital=HOSPITAL%20E%20MATERNIDADE%20NOTRECARE%20ABC</loc>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.astrosaude.com.br/pag/hospitais/?id=577&amp;hospital=HOSPITAL%20E%20MATERNIDADE%20POLICLIN</loc>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.astrosaude.com.br/pag/hospitais/?id=784&amp;hospital=HOSPITAL%20E%20MATERNIDADE%20SANTA%20MARIA</loc>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.astrosaude.com.br/pag/hospitais/?id=640&amp;hospital=HOSPITAL%20E%20MATERNIDADE%20SANTA%20MARIA%20CRUZ%20AZUL</loc>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.astrosaude.com.br/pag/hospitais/?id=199&amp;hospital=HOSPITAL%20E%20MATERNIDADE%20SAO%20JOAQUIM</loc>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.astrosaude.com.br/pag/hospitais/?id=643&amp;hospital=HOSPITAL%20E%20MATERNIDADE%20SAO%20MIGUEL</loc>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.astrosaude.com.br/pag/hospitais/?id=678&amp;hospital=HOSPITAL%20E%20MATERNIDADE%20SAO%20RAFAEL%20SP</loc>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.astrosaude.com.br/pag/hospitais/?id=721&amp;hospital=HOSPITAL%20E%20MATERNIDADE%20VIDAS</loc>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.astrosaude.com.br/pag/hospitais/?id=761&amp;hospital=HOSPITAL%20E%20MATERNIDADE%20VITORIA</loc>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.astrosaude.com.br/pag/hospitais/?id=710&amp;hospital=HOSPITAL%20E%20PRONTO%20SOCORRO%20PORTINARI</loc>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.astrosaude.com.br/pag/hospitais/?id=200&amp;hospital=HOSPITAL%20FRANCA</loc>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.astrosaude.com.br/pag/hospitais/?id=509&amp;hospital=HOSPITAL%20FREI%20GALVAO</loc>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.astrosaude.com.br/pag/hospitais/?id=686&amp;hospital=HOSPITAL%20GRAACC%20INSTITUTO%20DE%20ONCOLOGIA%20PEDIATRICA%20IOP</loc>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.astrosaude.com.br/pag/hospitais/?id=519&amp;hospital=HOSPITAL%20IFOR</loc>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.astrosaude.com.br/pag/hospitais/?id=759&amp;hospital=HOSPITAL%20INFANTIL%20SABARA</loc>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.astrosaude.com.br/pag/hospitais/?id=597&amp;hospital=HOSPITAL%20ISRAELITA%20ALBERT%20EINSTEIN</loc>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.astrosaude.com.br/pag/hospitais/?id=276&amp;hospital=HOSPITAL%20ITATIBA</loc>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.astrosaude.com.br/pag/hospitais/?id=667&amp;hospital=HOSPITAL%20JAPONES%20SANTA%20CRUZ</loc>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.astrosaude.com.br/pag/hospitais/?id=756&amp;hospital=HOSPITAL%20LEFORTE</loc>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.astrosaude.com.br/pag/hospitais/?id=618&amp;hospital=HOSPITAL%20LEFORTE%20LIBERDADE</loc>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.astrosaude.com.br/pag/hospitais/?id=321&amp;hospital=HOSPITAL%20LINS</loc>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.astrosaude.com.br/pag/hospitais/?id=453&amp;hospital=HOSPITAL%20MATERNIDADE%20RP</loc>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.astrosaude.com.br/pag/hospitais/?id=687&amp;hospital=HOSPITAL%20NIPO%20BRASILEIRO</loc>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.astrosaude.com.br/pag/hospitais/?id=348&amp;hospital=HOSPITAL%20NOSSA%20SENHORA%20APARECIDA</loc>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.astrosaude.com.br/pag/hospitais/?id=535&amp;hospital=HOSPITAL%20NOSSA%20SENHORA%20DE%20FATIMA</loc>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.astrosaude.com.br/pag/hospitais/?id=48&amp;hospital=HOSPITAL%20NOVO%20ATIBAIA</loc>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.astrosaude.com.br/pag/hospitais/?id=806&amp;hospital=HOSPITAL%20OFTALMOLOGICO%20DE%20SOROCABA</loc>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.astrosaude.com.br/pag/hospitais/?id=464&amp;hospital=HOSPITAL%20OFTALMOLOGICO%20RIBEIRAO%20PRETO%20S%20S</loc>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.astrosaude.com.br/pag/hospitais/?id=572&amp;hospital=HOSPITAL%20ORTO</loc>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.astrosaude.com.br/pag/hospitais/?id=608&amp;hospital=HOSPITAL%20OSWALDO%20CRUZ</loc>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.astrosaude.com.br/pag/hospitais/?id=158&amp;hospital=HOSPITAL%20PADRE%20ALBINO%20CATANDUVA</loc>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.astrosaude.com.br/pag/hospitais/?id=670&amp;hospital=HOSPITAL%20PAULISTANO</loc>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.astrosaude.com.br/pag/hospitais/?id=302&amp;hospital=HOSPITAL%20PITANGUEIRAS</loc>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.astrosaude.com.br/pag/hospitais/?id=571&amp;hospital=HOSPITAL%20POLICLIN</loc>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.astrosaude.com.br/pag/hospitais/?id=623&amp;hospital=HOSPITAL%20PRESIDENTE</loc>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.astrosaude.com.br/pag/hospitais/?id=134&amp;hospital=HOSPITAL%20RENASCENCA%20CAMPINAS</loc>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.astrosaude.com.br/pag/hospitais/?id=449&amp;hospital=HOSPITAL%20RIBEIRAO%20PIRES</loc>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.astrosaude.com.br/pag/hospitais/?id=456&amp;hospital=HOSPITAL%20RIBEIRAO%20PRETO</loc>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.astrosaude.com.br/pag/hospitais/?id=818&amp;hospital=HOSPITAL%20SAINT%20NICHOLAS%20MEDICAL</loc>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.astrosaude.com.br/pag/hospitais/?id=660&amp;hospital=HOSPITAL%20SAMARITANO</loc>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.astrosaude.com.br/pag/hospitais/?id=240&amp;hospital=HOSPITAL%20SAMARITANO</loc>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.astrosaude.com.br/pag/hospitais/?id=116&amp;hospital=HOSPITAL%20SAMARITANO%20DE%20CAMPINAS</loc>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.astrosaude.com.br/pag/hospitais/?id=805&amp;hospital=HOSPITAL%20SAMARITANO%20DE%20SOROCABA</loc>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.astrosaude.com.br/pag/hospitais/?id=787&amp;hospital=HOSPITAL%20SAMARITANO%20PAULISTA</loc>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.astrosaude.com.br/pag/hospitais/?id=745&amp;hospital=HOSPITAL%20SAN%20GENNARO</loc>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.astrosaude.com.br/pag/hospitais/?id=702&amp;hospital=HOSPITAL%20SANTA%20CATARINA</loc>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.astrosaude.com.br/pag/hospitais/?id=301&amp;hospital=HOSPITAL%20SANTA%20ELISA</loc>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.astrosaude.com.br/pag/hospitais/?id=248&amp;hospital=HOSPITAL%20SANTA%20IGNES</loc>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.astrosaude.com.br/pag/hospitais/?id=650&amp;hospital=HOSPITAL%20SANTA%20ISABEL</loc>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.astrosaude.com.br/pag/hospitais/?id=813&amp;hospital=HOSPITAL%20SANTA%20LUCINDA%20SOROCABA</loc>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.astrosaude.com.br/pag/hospitais/?id=458&amp;hospital=HOSPITAL%20SANTA%20LYDIA%20RIBEIRAO%20PRETO</loc>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.astrosaude.com.br/pag/hospitais/?id=615&amp;hospital=HOSPITAL%20SANTA%20MARCELINA%20SAO%20PAULO</loc>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.astrosaude.com.br/pag/hospitais/?id=820&amp;hospital=HOSPITAL%20SANTA%20MARIA%20DE%20SUZANO</loc>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.astrosaude.com.br/pag/hospitais/?id=681&amp;hospital=HOSPITAL%20SANTA%20PAULA</loc>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.astrosaude.com.br/pag/hospitais/?id=123&amp;hospital=HOSPITAL%20SANTA%20TEREZA</loc>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.astrosaude.com.br/pag/hospitais/?id=637&amp;hospital=HOSPITAL%20SANTA%20VIRGINIA</loc>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.astrosaude.com.br/pag/hospitais/?id=350&amp;hospital=HOSPITAL%20SANTANA</loc>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.astrosaude.com.br/pag/hospitais/?id=856&amp;hospital=HOSPITAL%20SANTO%20ANTONIO</loc>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.astrosaude.com.br/pag/hospitais/?id=525&amp;hospital=HOSPITAL%20SAO%20BERNARDO%20DO%20CAMPO</loc>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.astrosaude.com.br/pag/hospitais/?id=715&amp;hospital=HOSPITAL%20SAO%20CAMILO%20IPIRANGA</loc>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.astrosaude.com.br/pag/hospitais/?id=699&amp;hospital=HOSPITAL%20SAO%20CAMILO%20POMPEIA</loc>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.astrosaude.com.br/pag/hospitais/?id=719&amp;hospital=HOSPITAL%20SAO%20CAMILO%20SANTANA</loc>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.astrosaude.com.br/pag/hospitais/?id=792&amp;hospital=HOSPITAL%20SAO%20FRANCISCO</loc>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.astrosaude.com.br/pag/hospitais/?id=8&amp;hospital=HOSPITAL%20SAO%20FRANCISCO%20DE%20AMERICANA</loc>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.astrosaude.com.br/pag/hospitais/?id=174&amp;hospital=HOSPITAL%20SAO%20FRANCISCO%20SC%20LTDA</loc>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.astrosaude.com.br/pag/hospitais/?id=59&amp;hospital=HOSPITAL%20SAO%20JORGE</loc>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.astrosaude.com.br/pag/hospitais/?id=9&amp;hospital=HOSPITAL%20SAO%20LUCAS</loc>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.astrosaude.com.br/pag/hospitais/?id=506&amp;hospital=HOSPITAL%20SAO%20LUCAS%20DE%20SANTOS</loc>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.astrosaude.com.br/pag/hospitais/?id=465&amp;hospital=HOSPITAL%20SAO%20LUCAS%20RIBEIRANIA</loc>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.astrosaude.com.br/pag/hospitais/?id=451&amp;hospital=HOSPITAL%20SAO%20LUCAS%20RIBEIRAO%20PRETO</loc>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.astrosaude.com.br/pag/hospitais/?id=87&amp;hospital=HOSPITAL%20SAO%20LUIZ</loc>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.astrosaude.com.br/pag/hospitais/?id=682&amp;hospital=HOSPITAL%20SAO%20LUIZ%20JABAQUARA</loc>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.astrosaude.com.br/pag/hospitais/?id=537&amp;hospital=HOSPITAL%20SAO%20LUIZ%20SAO%20CAETANO</loc>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.astrosaude.com.br/pag/hospitais/?id=683&amp;hospital=HOSPITAL%20SEPACO</loc>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.astrosaude.com.br/pag/hospitais/?id=382&amp;hospital=HOSPITAL%20SINO%20BRASILEIRO</loc>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.astrosaude.com.br/pag/hospitais/?id=647&amp;hospital=HOSPITAL%20SIRIO%20LIBANES</loc>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.astrosaude.com.br/pag/hospitais/?id=762&amp;hospital=HOSPITAL%20SIRIO%20LIBANES%20UNIDADE%20ITAIM</loc>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.astrosaude.com.br/pag/hospitais/?id=835&amp;hospital=HOSPITAL%20UBARANA</loc>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.astrosaude.com.br/pag/hospitais/?id=440&amp;hospital=HOSPITAL%20UNIMED</loc>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.astrosaude.com.br/pag/hospitais/?id=336&amp;hospital=HOSPITAL%20UNIVERSITARIO%20DE%20MARILIA</loc>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.astrosaude.com.br/pag/hospitais/?id=94&amp;hospital=HOSPITAL%20UNIVERSITARIO%20SAO%20FRANCISCO%20NA%20PROV%20DE%20DEUS</loc>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.astrosaude.com.br/pag/hospitais/?id=788&amp;hospital=HOSPITAL%20VILA%20NOVA%20STAR</loc>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.astrosaude.com.br/pag/hospitais/?id=749&amp;hospital=HOSPITAL%20VILLA%20LOBOS</loc>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.astrosaude.com.br/pag/hospitais/?id=61&amp;hospital=HOSPITALIS</loc>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.astrosaude.com.br/pag/hospitais/?id=716&amp;hospital=HSANP%20HOSPITAL</loc>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.astrosaude.com.br/pag/hospitais/?id=622&amp;hospital=IBCC</loc>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.astrosaude.com.br/pag/hospitais/?id=512&amp;hospital=INFANTIL%20SANTOS%20COOPERATIVA%20MEDICO%20HOSPITALAR</loc>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.astrosaude.com.br/pag/hospitais/?id=181&amp;hospital=INNOVA%20HOSPITAIS%20ASSOCIADOS%20LTDA</loc>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.astrosaude.com.br/pag/hospitais/?id=269&amp;hospital=INSTITUTO%20AMERICO%20BAIRRAL%20DE%20PSIQUIATRIA</loc>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.astrosaude.com.br/pag/hospitais/?id=135&amp;hospital=INSTITUTO%20PENIDO%20BURNIER</loc>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.astrosaude.com.br/pag/hospitais/?id=300&amp;hospital=INTERMEDICA%20HPS%20HOSPITAL%20PAULO%20SACRAMENTO</loc>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.astrosaude.com.br/pag/hospitais/?id=850&amp;hospital=IRMANDADE%20DA%20SANTA%20CASA%20DE%20MISERICORDIA%20DE%20VALINHOS</loc>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.astrosaude.com.br/pag/hospitais/?id=726&amp;hospital=LEFORTE%20KIDS</loc>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.astrosaude.com.br/pag/hospitais/?id=114&amp;hospital=MATERNIDADE%20DE%20CAMPINAS</loc>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.astrosaude.com.br/pag/hospitais/?id=352&amp;hospital=MOGI%20MATER%20HOSPITAL%20E%20MATERNIDADE</loc>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.astrosaude.com.br/pag/hospitais/?id=824&amp;hospital=NOTRE%20DAME%20INTERMEDICA%20SAUDE%20S%20A</loc>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.astrosaude.com.br/pag/hospitais/?id=265&amp;hospital=NOVA%20VIDA</loc>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.astrosaude.com.br/pag/hospitais/?id=573&amp;hospital=ORTHOSERVICE</loc>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.astrosaude.com.br/pag/hospitais/?id=407&amp;hospital=PA%20PIRACICABA</loc>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.astrosaude.com.br/pag/hospitais/?id=206&amp;hospital=PLENA%20SAUDE</loc>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.astrosaude.com.br/pag/hospitais/?id=29&amp;hospital=SANTA%20CASA%20DE%20ARARAQUARA</loc>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.astrosaude.com.br/pag/hospitais/?id=141&amp;hospital=SANTA%20CASA%20DE%20CAPAO%20BONITO</loc>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.astrosaude.com.br/pag/hospitais/?id=297&amp;hospital=SANTA%20CASA%20DE%20JAU</loc>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.astrosaude.com.br/pag/hospitais/?id=316&amp;hospital=SANTA%20CASA%20DE%20LIMEIRA</loc>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.astrosaude.com.br/pag/hospitais/?id=320&amp;hospital=SANTA%20CASA%20DE%20LINS</loc>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.astrosaude.com.br/pag/hospitais/?id=342&amp;hospital=SANTA%20CASA%20DE%20MAUA</loc>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.astrosaude.com.br/pag/hospitais/?id=172&amp;hospital=SANTA%20CASA%20DE%20MISERICORDIA%20DE%20COSMOPOLIS</loc>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.astrosaude.com.br/pag/hospitais/?id=268&amp;hospital=SANTA%20CASA%20DE%20MISERICORDIA%20DE%20ITAPIRA</loc>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.astrosaude.com.br/pag/hospitais/?id=275&amp;hospital=SANTA%20CASA%20DE%20MISERICORDIA%20DE%20ITATIBA</loc>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.astrosaude.com.br/pag/hospitais/?id=543&amp;hospital=SANTA%20CASA%20DE%20MISERICORDIA%20DONA%20CAROLINA%20MALHEIROS%20SJBV</loc>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.astrosaude.com.br/pag/hospitais/?id=400&amp;hospital=SANTA%20CASA%20DE%20PENAPOLIS</loc>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.astrosaude.com.br/pag/hospitais/?id=504&amp;hospital=SANTA%20CASA%20DE%20SANTOS</loc>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.astrosaude.com.br/pag/hospitais/?id=539&amp;hospital=SANTA%20CASA%20DE%20SAO%20CARLOS</loc>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.astrosaude.com.br/pag/hospitais/?id=854&amp;hospital=SANTA%20CASA%20DE%20VINHEDO</loc>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.astrosaude.com.br/pag/hospitais/?id=857&amp;hospital=SANTA%20CASA%20DE%20VOTUPORANGA</loc>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.astrosaude.com.br/pag/hospitais/?id=703&amp;hospital=SAO%20LUIZ%20UNIDADE%20ITAIM</loc>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.astrosaude.com.br/pag/hospitais/?id=738&amp;hospital=SAO%20LUIZ%20UNIDADE%20MORUMBI</loc>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.astrosaude.com.br/pag/hospitais/?id=7&amp;hospital=SEARA%20HOSPITAL%20PSIQUIATRICO</loc>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.astrosaude.com.br/pag/hospitais/?id=708&amp;hospital=SERRA%20MAYOR</loc>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.astrosaude.com.br/pag/hospitais/?id=758&amp;hospital=UNIDADE%20AVANCADA%20EINSTEIN%20PERDIZES</loc>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.astrosaude.com.br/pag/hospitais/?id=93&amp;hospital=COMPLEXO%20HOSPITALAR%20SANTA%20CASA%20BRAGANCA%20PAULISTA</loc>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.astrosaude.com.br/pag/hospitais/?id=405&amp;hospital=HOSPITAL%2010%20DE%20JULHO</loc>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.astrosaude.com.br/pag/hospitais/?id=837&amp;hospital=HOSPITAL%20E%20MATERNIDADE%20POLICLIN%20TAUBATE</loc>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.astrosaude.com.br/pag/hospitais/?id=101&amp;hospital=HOSPITAL%20POLICLIN%20CACAPAVA</loc>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.astrosaude.com.br/pag/hospitais/?id=286&amp;hospital=HOSPITAL%20POLICLIN%20DE%20JACAREI</loc>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.astrosaude.com.br/pag/hospitais/?id=324&amp;hospital=HOSPITAL%20UNIMED%20DE%20LORENA</loc>
+  <lastmod>2023-06-19T18:16:34+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 

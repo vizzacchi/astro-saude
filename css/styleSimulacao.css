@@ -1,0 +1,335 @@
+html{
+  font-family: 'Roboto', sans-serif;
+  font-size: 16px;
+  box-sizing: border-box;
+}
+a{
+  text-decoration: none;
+}
+body{
+  background-color: #f5f5f5;
+}
+.nav-douglas{
+  margin-left: auto;
+  margin-right: 2rem;
+}
+.img-logo{
+  height: 3rem;
+}
+header{
+  background: #00A8C5 url("../img/banner/banner-home-astro-saude.webp") no-repeat;
+  background-repeat: no-repeat;
+}
+/***
+====================================================================
+	Main Simulação
+====================================================================
+****/
+
+.main-simulacao{
+	margin-top: 10px;
+  margin-left: 0.2rem;
+}
+.select:hover{
+  color: #1e3b54;
+	background-color: #fff;
+}
+.select:focus{
+  color: #1d3b53;
+	background-color: #fff;
+}
+.main-simulacao .bt-simulacao{
+	background: -moz-linear-gradient(top, #FF8A00 0%, #FFAF03 100%);
+	background: -webkit-linear-gradient(top, #FF8A00 0%,#FFAF03 100%);
+	background: -o-linear-gradient(top, #FF8A00 0%,#FFAF03 100%);
+	background: linear-gradient(to bottom, #FF8A00 0%,#FFAF03 100%);
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ff8a00', endColorstr='#ffaf03',GradientType=0 );
+
+	border-radius:10px;
+	-moz-border-radius:10px;
+	-ms-border-radius:10px;
+	-o-border-radius:10px;
+	-webkit-border-radius:10px;
+
+	display: block;
+	padding: 15px 10px;
+	margin: 30px 0px;
+
+	font-size: 2.3em;
+	line-height:1.2em;
+	font-weight: bold;
+	color:#003453;
+	text-transform: uppercase;
+
+	cursor:pointer;
+}
+.main-simulacao .bt-simulacao:hover,:focus{
+
+  text-decoration:none;
+  color: #1a6f96;
+  font-weight: 900;
+}
+.main-simulacao .bt-simulacao i{
+	font-size: 0.5em;
+  margin-bottom: 0.5em;
+	color: #003453;
+	border: 5px solid #003453;
+
+	border-radius: 			100px;
+	-moz-border-radius:		100px;
+	-ms-border-radius:		100px;
+	-o-border-radius:		100px;
+	-webkit-border-radius:	100px;
+
+	text-align: center;
+	padding: 10px;
+	margin: 0px 20px 0px 15px;
+}
+.main-simulacao .bt2-simulacao{
+	background: -moz-linear-gradient(top, #1a6f96 0%, #023a53 100%);
+	background: -webkit-linear-gradient(top, #1a6f96 0%,#023a53 100%);
+	background: -o-linear-gradient(top, #1a6f96 0%,#023a53 100%);
+	background: linear-gradient(to bottom, #1a6f96 0%,#023a53 100%);
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#1a6f96', endColorstr='#023a53',GradientType=0 );
+
+	border-radius:10px;
+	-moz-border-radius:10px;
+	-ms-border-radius:10px;
+	-o-border-radius:10px;
+	-webkit-border-radius:10px;
+
+	display: block;
+	padding: 20px;
+	margin: 30px 0px;
+
+	text-align:center;
+	font-size: 1.3em;
+	line-height:1em;
+	font-weight: 500;
+	color:#ffffff;
+
+	cursor:pointer;
+}
+.main-simulacao .bt2-simulacao:hover{
+	text-decoration:none;
+
+	background: -moz-linear-gradient(top, #2291C6 0%, #024D6C 100%);
+	background: -webkit-linear-gradient(top, #2291C6 0%,#024D6C 100%);
+	background: -o-linear-gradient(top, #2291C6 0%,#024D6C 100%);
+	background: linear-gradient(to bottom, #2291C6 0%,#024D6C 100%);
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#2291C6', endColorstr='#024D6C',GradientType=0 );
+}
+.title{
+  color: #1e3b54;
+  margin: 1em auto;
+  text-align: center;
+}
+.subtitle{
+  color: #1e3b54;
+  margin: 0.8em auto;
+  text-align: center;
+}
+.card a{
+  color: #1e3b54;
+}
+.card a:hover, :focus{
+  color: #FF8A00;
+}
+.btn-card{
+  position: absolute;
+  bottom: 0rem;
+  text-align: center;
+  width: 100%;
+  font-weight: 900;
+}
+.btn__botoes{
+	background-color: #1d3b53;
+	border-radius: 1rem;
+	width: 90%;
+  margin-top: 10rem;
+	padding: 1.2rem;
+	color: #fff;
+	font-weight: 500;
+	font-size: 1rem;
+	text-align: center;
+}
+.btn__botoes:hover,:focus{
+	color: #1d3b53;
+	background-color: #fff;
+	border: #1d3b53 1px solid;
+	transition: 0.5s;
+}
+.link_operadoras{
+	color: #1d3b53;
+	font-weight: 900;
+}
+.link_operadoras:hover,:focus{
+	color: #00A8C5;
+	font-weight: 500;
+}
+/***
+====================================================================
+	Rodapé style
+====================================================================
+****/
+
+.rodape{
+	background:#003755;
+	color:#ffffff;
+}
+
+.rodape .contatos{
+	padding:30px 0px;
+}
+
+.rodape .contatos i{
+	font-size: 1.2em;
+	color: #ffad01;
+	border: 2px solid #ffad01;
+
+	border-radius: 			100px;
+	-moz-border-radius:		100px;
+	-ms-border-radius:		100px;
+	-o-border-radius:		100px;
+	-webkit-border-radius:	100px;
+
+	float:left;
+	padding: 5px 8px;
+	margin: 10px 10px 0px 0px;
+}
+.rodape .contatos h2, .rodape .contato-forms h2{
+	color:#ffad01;
+	font-weight: 900;
+	font-size: 1.3em;
+	padding-top:10px;
+	margin:0px;
+	text-transform: uppercase;
+}
+.rodape a{
+  color: #f5f5f5;
+}
+.rodape a:hover,:focus{
+  color: #FEB825;
+}
+.rodape .forms input[type="submit"]{
+	background:#ffad01;
+	font-weight:700;
+	margin-top:10px;
+	padding:10px !important;
+}
+.rodape .forms input[type="submit"]:hover{
+	background:#032030;
+	color:#ffad01;
+}
+.rodape .rodape-direitos{
+	background:#032030;
+	color:#ffad01;
+	font-size:0.8em;
+	line-height:60px;
+}
+
+.rodape .rodape-direitos span{
+	float:left;
+}
+
+.rodape .rodape-direitos a{
+	float:right;
+	text-decoration:none;
+}
+
+.btn-simula{
+	width: 100%;
+	background-color: #FEB825;
+	color: #003453;
+	font-weight: 700;
+	text-transform: uppercase;
+}
+
+
+.destaque{
+	border: #003453 solid 2px;
+	padding: 1rem;
+	border-radius: 5px;
+}
+.title-destaque{
+	color: #1d3b53;
+	text-align: center;
+	font-size: 2rem;
+}
+.text-cotacao{
+	color:#1d3b53;
+	font-weight: 500;
+
+}
+.resultado-cotacao{
+	width: 100%;
+}
+.logo-oper-cotacao{
+	height: 80px;
+}
+.logo-adm-cotacao{
+	height: 30px;
+}
+.text-result-cotacao{
+	font-size: 0.8rem;
+	text-align: center;
+}
+.valor-cotacao{
+	font-size: 0.8rem;
+
+}
+li a{
+	color: #1d3b53;
+	margin-left: 0.5rem;
+}
+li a:hover,:focus{
+	color: #00A8C5;
+	font-weight: 900;
+}
+
+.accordion-body td,th{
+	font-size: small;
+}
+
+.link_cotacao{
+	color: #1d3b53;
+	font-weight: 400;
+
+}
+.link_cotacao:hover{
+	color: #1d3b53;
+	font-weight: 700;
+	text-decoration: underline;
+}
+.table-hospitais{
+	font-size: 0.7rem;
+	font-weight: 100;
+}
+.modal-titulo{
+	color: #1d3b53;
+	font-weight: 500;
+	font-size: 1rem;
+}
+
+@media (min-width:580px) {
+	.resultado-cotacao{
+		width: 90%;
+	}
+}
+@media (min-width:700px) {
+	.resultado-cotacao{
+		width: 70%;
+	}
+}
+@media (min-width:1000px) {
+	.resultado-cotacao{
+		width: 60%;
+	}
+}
+
+/***
+
+
+
+
+

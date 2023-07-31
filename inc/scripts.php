@@ -41,12 +41,6 @@
 }
 </script>
 
-  <!-- JS -->
-   <script src="<?php echo 'https://www.astrosaude.com.br/js/jquery.js';?>"></script>
-   <script src="<?php echo 'https://www.astrosaude.com.br/js/bootstrap.min.js';?>"></script>
-   <script src="<?php echo 'https://www.astrosaude.com.br/js/tooltip.js';?>"></script>
-
-
   <!--------------------------------------------------
 				Meta Pixel Code
 ---------------------------------------------------------->
@@ -89,6 +83,18 @@
   gtag('config', 'AW-11135356953/J_35CMCms_sDEJmg4L0p', {
     'phone_conversion_number': '0XX (12)3307-5375'
   });
+</script>
+
+<!----------------------------------------------------------------
+	Google Analytics
+----------------------------------------------------------------->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-1CS6WBF8MG"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-1CS6WBF8MG');
 </script>
 
 <!----------------------------------------------------------------
