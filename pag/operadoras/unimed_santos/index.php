@@ -7,7 +7,7 @@
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>Astro Vida e Saúde | São Francisco Vida</title>
+    <title>Astro Vida e Saúde | Unimed Santos</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
 
     <!-- Search -->
@@ -26,15 +26,15 @@
 
     <!-- META -->
     <meta name="author" 		content="Douglas Vizzacchi"/>
-    <meta name="description"  	content="Com mais de 20 anos de história o São Francisco Vida oferece a seus beneficiários planos de saúde com uma ampla rede credenciada." />
-    <meta name="keywords" 		content="São Francisco Vida, Planos de Saúde São Francisco Vida, Planos São Francisco Vida, Convênio Médico São Francisco Vida" />
+    <meta name="description"  	content="A Unimed Santos é onde nasceu o sistema Unimed, hoje a maior rede credenciada do Brasil." />
+    <meta name="keywords" 		content="Unimed Santos, Planos de Saúde Unimed Santos, Planos Unimed Santos, Convênio Médico Unimed Santos" />
 
     <!-- FACEBOOK -->
     <meta property="og:locale" 			content="pt_BR">
     <meta property="og:url" 			content="https://www.astrosaude.com.br">
-    <meta property="og:title" 			content="Astro Vida e Saúde | São Francisco Vida">
+    <meta property="og:title" 			content="Astro Vida e Saúde | Unimed Guarulhos">
     <meta property="og:site_name" 		content="Astro Vida e Saúde">
-    <meta property="og:description" 	content="Com mais de 20 anos de história o São Francisco Vida oferece a seus beneficiários planos de saúde com uma ampla rede credenciada.">
+    <meta property="og:description" 	content="A Unimed Santos é onde nasceu o sistema Unimed, hoje a maior rede credenciada do Brasil.">
     <meta property="og:image" 			content="https://www.astrosaude.com.br/img/planos-de-saude-pilon.jpg">
     <meta property="og:image:type" 		content="image/jpeg">
     <meta property="og:image:width" 	content="470">
@@ -95,30 +95,31 @@
         <nav style="--bs-breadcrumb-divider: '>';" aria-label="breadcrumb" class="m-5">
             <ol class="breadcrumb">
             <li class="breadcrumb-item"><a class="link_operadoras" href="../../../">Home</a></li>
-            <li class="breadcrumb-item active" aria-current="page">São Francisco Vida</li>
+            <li class="breadcrumb-item active" aria-current="page">Unimed Santos</li>
             </ol>
         </nav>
 
-		  <div class="clear"><h1 class="text-center">São Francisco Vida<br>
-                <span class="h2">A 20 anos oferecendo planos de saúde de qualidade com ampla rede-credenciada.</span></h1>
+		  <div class="clear"><h1 class="text-center">Unimed Santos<br>
+                <span class="h2">A primeira Unimed do Brasil, onde tudo começou.</span></h1>
             <!-- Listagem das operadoras -->
             <div class="row m-5">
             <div class="col-12 col-md-6 d-flex justify-content-center align-items-center mb-2">
-                <img src="../../../img/logos/sao-francisco-vida.webp" alt="Logo São Francisco Vida" title="Logo São Francisco Vida">
+                <img src="../../../img/logos/unimed-santos.webp" alt="Logo Unimed Guarulhos" title="Logo Unimed Guarulhos">
             </div>
             <div class="col-12 col-md-6">
-                <p>O plano de saúde <strong>São Francisco Vida</strong> vem a mais de 20 anos de história, oferecendo uma ampla e qualificada rede credenciada, contando com os serviços de hospitais de referência, laboratórios de última geração e centros de diagnósticos.</p>
-                <p>O <strong>São Francisco Vida</strong> possui atendimento nas cidades de Jacareí, São José dos Campos, Guararema, Caraguatatuba e São Sebastião, no entanto, conta com cobertura de urgência e emergência em todo o país pela rede Abramge.</p>
+              <p>A <strong>Unimed Santos</strong> foi criada em 1967 e é a <strong>primeira Unimed do Brasil</strong>. Trata-se de uma cooperativa de trabalho médico que oferece planos de saúde em onze municípios da Baixada Santista e Vale do Ribeira: Santos, São Vicente, Praia Grande, Cubatão, Bertioga, Guarujá, Mongaguá, Itanhaém, Peruíbe, Pedro de Toledo e Itariri. </p>
+              <p>A <strong>Unimed Santos</strong> possui uma ampla cobertura médica nas cidades onde atua e cobertura de atendimento nacional para urgência e emergência. Constantemente investe na valorização dos médicos e pratica uma medicina humana, ampla e preventiva.</p>
             </div>
         </div>
         <div class="row m-3">
             <div class="col-12 col-md-6">
-                <h2 class="subtitle">Diferenciais dos Planos do São Francisco Vida</h2>
-                <ul class="mx-1">
-                  <li>Clube de Desconto – são opções das mais diversas, desde descontos em medicamentos, academias, hotéis, restaurantes, escola e muito mais.</li>
-                  <li>Rapidez no atendimento – autorizações via web.</li>
-                  <li>Hospital próprio – São Francisco de Assis, na cidade de Jacareí.</li>
-                  <li>Guia Médico atualizado, disponibilizado nas versões impressas e digitais.</li>
+                <h2 class="subtitle">Diferenciais dos Planos da Unimed Santos</h2>
+                  <li>Hospital-dia com três centros cirúrgicos.</li>
+                  <li>Telemedicina em Pronto Atendimento.</li>
+                  <li>Agendamento on-line – comodidade na hora de marcar ou desmarcar consultas e exames nos Recursos Próprios da Unimed Santos; além disso aqui é possível conferir seu histórico.</li>
+                  <li>Benefício Família – remissão conforme condições contratuais.</li>
+                  <li>Central de atendimento 24 horas por meio do qual o beneficiário poderá ter acesso aos serviços: orientação e esclarecimento de dúvidas e intercâmbio; emissão de boleto bancário; alteração de endereço; reclamações e/ou sugestões; pesquisa de procedimentos junto à rede credenciada.</li>
+                  <li>Aplicativo Unimed Santos.</li>
                 </ul>
             </div>
             <div class="col-12 col-md-6">
@@ -153,7 +154,7 @@
                               INNER JOIN cepbr_endereco TC on TC.cep = TE.cep
                               INNER JOIN cepbr_cidade TD on TD.id_cidade = TC.id_cidade
                               JOIN cepbr_bairro TB on TB.id_bairro = TC.id_bairro
-                              WHERE TOP.id = 47
+                              WHERE TOP.id = 43
                               ORDER BY TE.destaque DESC, TE.nome_abrev";
 
             if($rsHospitais = mysqli_query($conn, $qsqlHospitais)){?>

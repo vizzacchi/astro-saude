@@ -406,33 +406,34 @@
                                     <tr>
                                         <th scope="col">Procedimento</th>
                                         <th scope="col">Nosso Plano Cop</th>
+                                        <th scope="col">Nosso Plano Cop P</th>
                                     </tr>
                                 </thead>
                                 <tbody>
                                     <tr>
                                         <td>Consultas eletivas</td>
                                         <td>22,00</td>
-
+                                        <td> - </td>
                                     </tr>
                                     <tr>
                                         <td>Consultas de urgência</td>
                                         <td>35,00</td>
-
+                                        <td> - </td>
                                     </tr>
                                     <tr>
                                         <td>Exames simples</td>
                                         <td>15,00</td>
-
+                                        <td> - </td>
                                     </tr>
                                     <tr>
                                         <td>Exames complexos</td>
                                         <td>60,00</td>
-
+                                        <td> - </td>
                                     </tr>
                                     <tr>
                                         <td>Terapias</td>
                                         <td>50% limitado a R$ 61,20</td>
-
+                                        <td>50% limitado a R$ 61,20</td>
                                     </tr>
                                 </tbody>
                             </table>

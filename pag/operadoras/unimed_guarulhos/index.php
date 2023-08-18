@@ -7,7 +7,7 @@
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>Astro Vida e Saúde | São Francisco Vida</title>
+    <title>Astro Vida e Saúde | Unimed Guarulhos</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
 
     <!-- Search -->
@@ -26,15 +26,15 @@
 
     <!-- META -->
     <meta name="author" 		content="Douglas Vizzacchi"/>
-    <meta name="description"  	content="Com mais de 20 anos de história o São Francisco Vida oferece a seus beneficiários planos de saúde com uma ampla rede credenciada." />
-    <meta name="keywords" 		content="São Francisco Vida, Planos de Saúde São Francisco Vida, Planos São Francisco Vida, Convênio Médico São Francisco Vida" />
+    <meta name="description"  	content="A Unimed Guarulhos é uma cooperativa sólida com atendimento em Guarulhos, Itaquaquecetuba, Arujá, Santa Isabel e Ferraz de Vasconcelos." />
+    <meta name="keywords" 		content="Unimed Guarulhos, Planos de Saúde Unimed Guarulhos, Planos Unimed Guarulhos, Convênio Médico Unimed Guarulhos" />
 
     <!-- FACEBOOK -->
     <meta property="og:locale" 			content="pt_BR">
     <meta property="og:url" 			content="https://www.astrosaude.com.br">
-    <meta property="og:title" 			content="Astro Vida e Saúde | São Francisco Vida">
+    <meta property="og:title" 			content="Astro Vida e Saúde | Unimed Guarulhos">
     <meta property="og:site_name" 		content="Astro Vida e Saúde">
-    <meta property="og:description" 	content="Com mais de 20 anos de história o São Francisco Vida oferece a seus beneficiários planos de saúde com uma ampla rede credenciada.">
+    <meta property="og:description" 	content="A Unimed Guarulhos é uma cooperativa sólida com atendimento em Guarulhos, Itaquaquecetuba, Arujá, Santa Isabel e Ferraz de Vasconcelos.">
     <meta property="og:image" 			content="https://www.astrosaude.com.br/img/planos-de-saude-pilon.jpg">
     <meta property="og:image:type" 		content="image/jpeg">
     <meta property="og:image:width" 	content="470">
@@ -95,30 +95,33 @@
         <nav style="--bs-breadcrumb-divider: '>';" aria-label="breadcrumb" class="m-5">
             <ol class="breadcrumb">
             <li class="breadcrumb-item"><a class="link_operadoras" href="../../../">Home</a></li>
-            <li class="breadcrumb-item active" aria-current="page">São Francisco Vida</li>
+            <li class="breadcrumb-item active" aria-current="page">Unimed Guarulhos</li>
             </ol>
         </nav>
 
-		  <div class="clear"><h1 class="text-center">São Francisco Vida<br>
-                <span class="h2">A 20 anos oferecendo planos de saúde de qualidade com ampla rede-credenciada.</span></h1>
+		  <div class="clear"><h1 class="text-center">Unimed Guarulhos<br>
+                <span class="h2">Uma cooperativa sólida com atendimento em Guarulhos, Itaquaquecetuba, Arujá, Santa Isabel e Ferraz de Vasconcelos.</span></h1>
             <!-- Listagem das operadoras -->
             <div class="row m-5">
             <div class="col-12 col-md-6 d-flex justify-content-center align-items-center mb-2">
-                <img src="../../../img/logos/sao-francisco-vida.webp" alt="Logo São Francisco Vida" title="Logo São Francisco Vida">
+                <img src="../../../img/logos/unimed-guarulhos.webp" alt="Logo Unimed Guarulhos" title="Logo Unimed Guarulhos">
             </div>
             <div class="col-12 col-md-6">
-                <p>O plano de saúde <strong>São Francisco Vida</strong> vem a mais de 20 anos de história, oferecendo uma ampla e qualificada rede credenciada, contando com os serviços de hospitais de referência, laboratórios de última geração e centros de diagnósticos.</p>
-                <p>O <strong>São Francisco Vida</strong> possui atendimento nas cidades de Jacareí, São José dos Campos, Guararema, Caraguatatuba e São Sebastião, no entanto, conta com cobertura de urgência e emergência em todo o país pela rede Abramge.</p>
+              <p>Desde 1994 a <strong>Unimed Guarulhos</strong> integra o Sistema Unimed, o maior sistema cooperativista de trabalho médico do mundo e também a maior rede de assistência médica do Brasil, presente em 84% do território nacional. A <strong>Unimed Guarulhos</strong> é uma cooperativa sólida com atendimento em Guarulhos, Itaquaquecetuba, Arujá, Santa Isabel e Ferraz de Vasconcelos.</p>
+              <p>A <strong>Unimed Guarulhos</strong> tem comprometimento com a vida, com o mundo e, por isso, oferece aos beneficiários uma rede de médicos de diversas especialidades, hospitais, pronto atendimentos, laboratórios e clínicas para que eles recebam um atendimento cada vez mais humanizado. Nesse sentido, desde 2008, a rede de atendimento tem sido ampliada com unidades próprias: são um Complexo Hospitalar, um completo Centro de Diagnóstico, uma unidade que oferece um sistema integrado de cuidados (atendimento ambulatorial, diagnóstico e de medicina preventiva) e a Unidade de Oncologia, que recebem investimentos contínuos em instalações, tecnologia e na qualificação das equipes, com o objetivo de zelar pela satisfação de seus clientes, a valorização da medicina humanizada e preventiva e a promoção da saúde e bem-estar social.</p>
             </div>
         </div>
         <div class="row m-3">
             <div class="col-12 col-md-6">
-                <h2 class="subtitle">Diferenciais dos Planos do São Francisco Vida</h2>
+                <h2 class="subtitle">Diferenciais dos Planos da Unimed Guarulhos</h2>
                 <ul class="mx-1">
-                  <li>Clube de Desconto – são opções das mais diversas, desde descontos em medicamentos, academias, hotéis, restaurantes, escola e muito mais.</li>
-                  <li>Rapidez no atendimento – autorizações via web.</li>
-                  <li>Hospital próprio – São Francisco de Assis, na cidade de Jacareí.</li>
-                  <li>Guia Médico atualizado, disponibilizado nas versões impressas e digitais.</li>
+                  <li>Medicina Preventiva – com o objetivo de desenvolver um completo diagnóstico da saúde dos seus beneficiários, a <strong>Unimed Guarulhos</strong> oferece de forma gratuita, ações integradas de assistência, promoção da saúde e prevenção de doenças. </li>
+                  <li>Telemedicina  - para todos os planos deste portfólio, e com o objetivo de viabilizar o atendimento aos beneficiários de forma ágil e tecnológica, a <strong>Unimed Guarulhos</strong> oferece de forma gratuita, um canal de atendimento para a realização da Telemedicina, visando esclarecer todas as dúvidas dos beneficiários. </li>
+                  <li>Unidades próprias e exclusivas para atendimento hospitalar, diagnóstico e ambulatorial</li>
+                  <li>Pronto Atendimento Virtual 24 horas</li>
+                  <li>Agendamento on-line de exames no Centro de Diagnóstico <strong>Unimed Guarulhos</strong></li>
+                  <li>Descontos em medicamentos e perfumaria na rede da Drogaria São Paulo</li>
+                  <li>Benefícios diversos na rede de empresas parceiras do Clube de Vantagens</li>
                 </ul>
             </div>
             <div class="col-12 col-md-6">
@@ -153,7 +156,7 @@
                               INNER JOIN cepbr_endereco TC on TC.cep = TE.cep
                               INNER JOIN cepbr_cidade TD on TD.id_cidade = TC.id_cidade
                               JOIN cepbr_bairro TB on TB.id_bairro = TC.id_bairro
-                              WHERE TOP.id = 47
+                              WHERE TOP.id = 40
                               ORDER BY TE.destaque DESC, TE.nome_abrev";
 
             if($rsHospitais = mysqli_query($conn, $qsqlHospitais)){?>
